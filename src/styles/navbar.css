@@ -1,0 +1,24 @@
+
+.title{
+    padding-top: 10px;
+    color:red;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .header{
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    padding-top: 4px;
+    text-decoration:none;
+    font-size: 30px;
+    padding-right: 600px;
+  }
+  
+  .title{
+    padding-left:20px;
+  }
+  
+  .title:hover{
+    color:violet;
+  }  
